@@ -71,7 +71,7 @@ const Projects = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-80">
               <span className="text-2xl font-bold text-white tracking-wider px-2">
-                Application Symfony
+                Application ReactJS
               </span>
               <div className="pt-8 text-center">
                 <a href="https://thibautcornil.github.io/react_nord" target="_blank">
