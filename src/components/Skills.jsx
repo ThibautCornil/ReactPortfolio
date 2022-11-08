@@ -13,7 +13,7 @@ const Skills = () => {
         <div name="skills" className='w-full h-screen bg-BleuNuit text-BlancAntique'>
             <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
                 <div className='space-y-4'>
-                    <p className='text-4xl font-bold inline border-b-4 border-Citron'>Expérience</p>
+                    <p className='text-4xl font-bold inline border-b-4 border-Citron'>Compétences</p>
                     <p className='py-4'>// Ce sont les technologies avec lesquels j'ai le plus d'affinité</p>
                 </div>
                 <div className='w-full grid grid-cols-2 gap-4 text-center py-8 sm:grid-cols-4'>
