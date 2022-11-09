@@ -50,6 +50,7 @@ const Skills = () => {
                         <p className='my-4'>GITHUB</p>
                     </div>
                 </div>
+                <p>Et j'aime continuer à en apprendre de nouvelles, m'adapter à de nouvelles demandes et besoins avec des outils différents...</p>
             </div>
         </div>
     );
